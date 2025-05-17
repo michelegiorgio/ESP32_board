@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32_Peter_dalmaris")(type "KiCad")(uri "${KIPRJMOD}/ESP32_LIB_FOOTPRINT")(options "")(descr ""))
+)
